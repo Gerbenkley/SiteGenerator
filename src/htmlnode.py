@@ -19,9 +19,9 @@ class HTMLNode():
         return "".join(parts)
     
     def __repr__(self):
-        print(f"tag: {self.tag}\n")
-        print(f"value = {self.value}\n")
-        print(f"children = {self.children}\n")
-        print(f"props = {self.props}\n")
-
-        return f"tag: {self.tag}\n", f"value = {self.value}\n", f"children = {self.children}\n", f"props = {self.props}\n"
+        return print(
+            f" tag: {self.tag}\n", 
+            f"value = {self.value}\n", 
+            f"children = {self.children}\n", 
+            f"props = {self.props}\n"
+            )
