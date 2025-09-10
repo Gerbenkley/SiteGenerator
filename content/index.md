@@ -1,12 +1,13 @@
-# Tolkien Fan Club
+# Gerben van der Kleij / GU:RP
 
-![JRR Tolkien sitting](/images/tolkien.png)
+![Gerben van der Kleij standing](/images/Gurp_long.jpeg)
 
-Here's the deal, **I like Tolkien**.
+This is me, **GU:RP**.
+I'm a 27 Years old **Electronic Music Artist**, **Sound Designer**, and **Creative Coder**.
 
-> "I am in fact a Hobbit in all but size."
+> "It's not an end point, just an invitation to revise."
 >
-> -- J.R.R. Tolkien
+> -- Gerben van der Kleij
 
 ## Blog posts
 
@@ -14,33 +15,33 @@ Here's the deal, **I like Tolkien**.
 - [Why Tom Bombadil Was a Mistake](/blog/tom)
 - [The Unparalleled Majesty of "The Lord of the Rings"](/blog/majesty)
 
-## Reasons I like Tolkien
+## Reasons I am pretty cool
 
-- You can spend years studying the legendarium and still not understand its depths
-- It can be enjoyed by children and adults alike
-- Disney _didn't ruin it_ (okay, but Amazon might have)
-- It created an entirely new genre of fantasy
+- I'm a dog person
+- I love making and performing music
+- I don't _vibe code_, I _code while vibing_
+- Literally fun to have a conversation with
 
-## My favorite characters (in order)
+## My favorite things in life (in order)
 
-1. Gandalf
-2. Bilbo
-3. Sam
-4. Glorfindel
-5. Galadriel
-6. Elrond
-7. Thorin
-8. Sauron
-9. Aragorn
+1. Food
+2. Iced Tea
+3. Sleep
+4. Music
+5. Technology stuff
+6. Games
+7. Numbers
+8. Puzzles
+9. More Music
 
-Here's what `elflang` looks like (the perfect coding language):
+Here's what `music` looks like to me:
 
 ```
 func main(){
-    fmt.Println("Aiya, Ambar!")
+    gurp.SoundGenerate("WUB WUB WUB")
 }
 ```
 
-Want to get in touch? [Contact me here](/contact).
+Connect with me! [Contact me here](/contact).
 
-This site was generated with a custom-built [static site generator](https://www.boot.dev/courses/build-static-site-generator-python) from the course on [Boot.dev](https://www.boot.dev).
+I generated this website using a custom-built [static site generator](https://www.boot.dev/courses/build-static-site-generator-python) from the course on [Boot.dev](https://www.boot.dev).
